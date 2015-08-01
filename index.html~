@@ -1,0 +1,20 @@
+---
+layout: default
+title: Jacopo Soriano
+---
+<div class="about">
+	<table>
+	<tr>
+	<td width="70%" style="vertical-align: top;">
+	<h1>Jacopo Soriano</h1>
+	<p>I am a quantitative analyst at YouTube. Before joining YouTube, I got a PhD in Statistics from Duke University.  </p> 
+        <p>Prior to that I received a MS in Mathematical Engineering from Politecnico di Milano and a MS in Enginering from Ecole Centrale Paris.</p>
+	</td>
+	<td width="30%" style="vertical-align: top;">
+	<img width="70%" src="images/jacsoriano.JPG" align="right">
+	</td>	
+	</tr>
+	</table>
+</div>
+
+
