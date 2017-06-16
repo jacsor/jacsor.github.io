@@ -24,5 +24,8 @@
 			<li><a href="https://www.linkedin.com/in/jacsor" target="_blank">linkedin</a></li>
 		</ul>
 		</footer>
+                {% if jekyll.environment == 'production' %}
+                {% include analytics.html %}
+                {% endif %}
 	</body>
 </html>
